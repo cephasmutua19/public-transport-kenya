@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f04a0162-f7fe-4c4d-9abf-9b645cec2565" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrapexmpl.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrapexmpl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/navbarCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/supermetro(b).css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/strapExample.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/strapExample.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson5.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermetro.html" beforeDir="false" afterPath="$PROJECT_DIR$/supermetro(b).html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/cephasmutua19/Bootstrap-Smart-Class" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kzyoBMiZrKMKVKDFdfDFx7vsWl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/image" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Josephine Mbuthi\PhpstormProjects\bootStrapSmartclass\image" />
+      <recent name="C:\Users\Josephine Mbuthi\PhpstormProjects\bootStrapSmartclass\image\slides" />
+      <recent name="C:\Users\Josephine Mbuthi\PhpstormProjects\bootStrapSmartclass\bootstrap\js" />
+      <recent name="C:\Users\Josephine Mbuthi\PhpstormProjects\bootStrapSmartclass" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Josephine Mbuthi\PhpstormProjects\bootStrapSmartclass\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f04a0162-f7fe-4c4d-9abf-9b645cec2565" name="Default Changelist" comment="" />
+      <created>1606717892161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606717892161</updated>
+      <workItem from="1606717894859" duration="2264000" />
+      <workItem from="1606744282731" duration="2322000" />
+      <workItem from="1606751869053" duration="618000" />
+      <workItem from="1606753492052" duration="70000" />
+      <workItem from="1606874228117" duration="12045000" />
+      <workItem from="1606910752049" duration="4228000" />
+      <workItem from="1606923233187" duration="873000" />
+      <workItem from="1606960982030" duration="8929000" />
+      <workItem from="1606998909837" duration="6231000" />
+      <workItem from="1607047117501" duration="1577000" />
+      <workItem from="1607049621816" duration="11065000" />
+      <workItem from="1607074460442" duration="4107000" />
+      <workItem from="1607154806077" duration="2592000" />
+      <workItem from="1607178959825" duration="1257000" />
+      <workItem from="1607181922555" duration="2513000" />
+      <workItem from="1607190742653" duration="930000" />
+      <workItem from="1607220172278" duration="26589000" />
+      <workItem from="1607319448864" duration="2095000" />
+      <workItem from="1607333529831" duration="929000" />
+      <workItem from="1607342364752" duration="19821000" />
+      <workItem from="1607409859289" duration="20446000" />
+      <workItem from="1607436567516" duration="8546000" />
+      <workItem from="1607446521137" duration="776000" />
+      <workItem from="1607464269939" duration="11700000" />
+      <workItem from="1607482805408" duration="9239000" />
+      <workItem from="1607513420736" duration="2383000" />
+      <workItem from="1607662138858" duration="1275000" />
+      <workItem from="1607742951894" duration="2818000" />
+      <workItem from="1608031954491" duration="1787000" />
+      <workItem from="1608559215357" duration="575000" />
+      <workItem from="1608559928526" duration="1460000" />
+      <workItem from="1608638100072" duration="1644000" />
+      <workItem from="1608640313455" duration="1232000" />
+      <workItem from="1608653123833" duration="1367000" />
+      <workItem from="1608655029151" duration="183000" />
+      <workItem from="1608657066708" duration="1151000" />
+      <workItem from="1608725282948" duration="1699000" />
+      <workItem from="1608732162157" duration="1690000" />
+      <workItem from="1608743851600" duration="670000" />
+      <workItem from="1608876450918" duration="1497000" />
+      <workItem from="1608952450423" duration="1680000" />
+      <workItem from="1608954658508" duration="1059000" />
+      <workItem from="1608971973906" duration="1691000" />
+      <workItem from="1608975251598" duration="2105000" />
+      <workItem from="1609064779572" duration="1686000" />
+      <workItem from="1609068419180" duration="1686000" />
+      <workItem from="1609072391195" duration="1709000" />
+      <workItem from="1609074340043" duration="1593000" />
+      <workItem from="1609076217308" duration="1728000" />
+      <workItem from="1609078141822" duration="1699000" />
+      <workItem from="1609079969754" duration="1241000" />
+      <workItem from="1609082231888" duration="1729000" />
+      <workItem from="1609084128974" duration="1687000" />
+      <workItem from="1609085986529" duration="1699000" />
+      <workItem from="1609126740214" duration="1099000" />
+      <workItem from="1609139936801" duration="608000" />
+      <workItem from="1609150567127" duration="818000" />
+      <workItem from="1609177371386" duration="912000" />
+      <workItem from="1609180934857" duration="1096000" />
+      <workItem from="1609217789582" duration="741000" />
+      <workItem from="1609219593241" duration="1691000" />
+      <workItem from="1609221595768" duration="581000" />
+      <workItem from="1609225013783" duration="1700000" />
+      <workItem from="1609227047269" duration="1108000" />
+      <workItem from="1609228965902" duration="1683000" />
+      <workItem from="1609230828178" duration="1199000" />
+      <workItem from="1609235910960" duration="2161000" />
+      <workItem from="1609252508678" duration="391000" />
+      <workItem from="1609256406321" duration="703000" />
+      <workItem from="1609331135990" duration="1144000" />
+      <workItem from="1609342069924" duration="1726000" />
+      <workItem from="1609344044443" duration="604000" />
+      <workItem from="1609393054772" duration="1724000" />
+      <workItem from="1609395256820" duration="1696000" />
+      <workItem from="1609397110294" duration="1706000" />
+      <workItem from="1609398988701" duration="1708000" />
+      <workItem from="1609400816845" duration="1218000" />
+      <workItem from="1609403564184" duration="1269000" />
+      <workItem from="1609407227304" duration="789000" />
+      <workItem from="1609428643312" duration="622000" />
+      <workItem from="1609775270701" duration="175000" />
+      <workItem from="1610358653604" duration="1095000" />
+      <workItem from="1614227894372" duration="826000" />
+      <workItem from="1614229422395" duration="466000" />
+      <workItem from="1614322146370" duration="1789000" />
+      <workItem from="1614324157373" duration="157000" />
+      <workItem from="1614366936542" duration="176000" />
+      <workItem from="1614533072328" duration="959000" />
+      <workItem from="1614669446163" duration="1016000" />
+      <workItem from="1614676717825" duration="1749000" />
+      <workItem from="1614678607371" duration="196000" />
+      <workItem from="1614681228793" duration="156000" />
+      <workItem from="1614698174600" duration="32000" />
+      <workItem from="1615277493938" duration="997000" />
+      <workItem from="1615290548339" duration="639000" />
+      <workItem from="1615295844864" duration="378000" />
+      <workItem from="1615298061058" duration="1236000" />
+      <workItem from="1615299943261" duration="595000" />
+      <workItem from="1615306174715" duration="593000" />
+      <workItem from="1615308318998" duration="626000" />
+      <workItem from="1615315859617" duration="90000" />
+      <workItem from="1616059966213" duration="662000" />
+      <workItem from="1616065416760" duration="355000" />
+      <workItem from="1616927350500" duration="824000" />
+      <workItem from="1616928678117" duration="1138000" />
+      <workItem from="1616938429826" duration="313000" />
+      <workItem from="1617083479760" duration="331000" />
+      <workItem from="1617333788183" duration="1033000" />
+      <workItem from="1624148594707" duration="448000" />
+      <workItem from="1625244912850" duration="459000" />
+      <workItem from="1625572806331" duration="247000" />
+      <workItem from="1626885413070" duration="301000" />
+      <workItem from="1627896220733" duration="2197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
